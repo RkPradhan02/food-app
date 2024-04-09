@@ -10,7 +10,7 @@ const Cart = () => {
                 <div className='col-2 px-0'><p className='mb-0 text-white'>Qty</p></div>
                 <div className='col-3 px-0 d-flex justify-content-end'><p className='mb-0 text-white text-end'>Price</p></div>
             </div>
-            <div className='food-container'>
+            <div className='food-box'>
                 <div className='row mx-0'>
                     <div className='col-7 px-0'>
                         <p className='item-name text-grey mb-0'>Item name</p>

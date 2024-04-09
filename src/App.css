@@ -36,8 +36,28 @@
     transform: rotate(360deg);
   }
 } */
+* {
+  margin: 0;
+  box-sizing: border-box;
 
+}
+/* body {
+  background-color: #252837;
+} */
 
 .text-grey {
   color: #adabb8;
 }
+
+.fs-12 {
+  font-size: 12px;
+}
+.btn {
+  background: #f17e6c;
+  border: 1px solid #f17e6c;
+}
+.btn:hover {
+  background: #fa6953;
+  border: 1px solid #fa6953
+}
+/* ,#fa7c69) */

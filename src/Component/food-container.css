@@ -1,0 +1,17 @@
+.food-container {
+    background-color: #252837;
+    border-radius: 10px;
+    margin: 0;
+    padding: 20px;
+    display: grid;
+    gap: 24px;
+    padding-right: 300px;
+    grid-template-columns: auto 0.5fr;
+    /* overflow-y: hidden; */
+}
+.fooditems {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: auto auto auto;
+    /* overflow: scroll; */
+}
