@@ -1,0 +1,42 @@
+.cart {
+    background: #1f1d2b;
+    border-radius: 20px;
+    padding: 10px 15px;
+    max-width: 320px;
+}
+.food-container{
+    background: #1f1d2b;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0,0,0,.4);
+    color: #adabb8;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    margin: 8px 0;
+    padding: 10px;
+}
+.qty-box {
+    /* align-items: center; */
+    background: #252837;
+    border-radius: 3px;
+    color: #fff;
+    /* display: flex; */
+    /* height: 30px; */
+    /* justify-content: center; */
+    /* padding: 7px 10px; */
+    /* width: 40px; */
+}
+.price-figure {
+    align-items: center;
+    background: #1f1d2b;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0,0,0,.4);
+    color: #adabb8;
+    display: flex;
+    font-size: 12px;
+    justify-content: space-between;
+    margin: 8px 0;
+    min-width: 230px;
+    padding: 10px;
+}
+
